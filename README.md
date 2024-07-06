@@ -34,21 +34,21 @@ The degenerated tetrahedron ie plane is shown for the first singular configurati
 The degenerated tetrahedron ie plane is shown for the second singular configuration of the parallel robot
 
 ![](https://github.com/austinvishal/Singular/blob/main/assets/sing2.jpg)
+
 The degenerated tetrahedron ie plane is shown for the third singular configuration of the parallel robot
 
 ![](https://github.com/austinvishal/Singular/blob/main/assets/sing3.jpg)
+
 The degenerated tetrahedron ie plane is shown for the fourth singular configuration of the parallel robot
 
-![](https://github.com/austinvishal/Singular/blob/main/assets/sing4.jpg)
+![](https://github.com/austinvishal/Singular/blob/main/assets/sing4.png)
+
 The degenerated tetrahedron ie plane is shown for the fifth singular configuration of the parallel robot
 
-![](https://github.com/austinvishal/Singular/blob/main/assets/sing5.jpg)
-
+![](https://github.com/austinvishal/Singular/blob/main/assets/sing5.png)
 
 
 </p>
-
-
 
 ### Maintainer
 

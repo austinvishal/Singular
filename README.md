@@ -23,7 +23,7 @@ A library of graphical and computational tools has been written in order to simp
 
 <p align="center">
 
-The scaled wrench set of the cable driven shoulder joint is shown in the graphic mockup below
+The characteristic tetrahedron and apex of tetrahedron are visualized and seen normally for a working configuration of parallel robot (Minimal simplified symmetric manipulator) is shown in the graphic mockup below
 
 ![](https://github.com/austinvishal/Singular/blob/main/assets/tetrahedronsingular.png)
 
